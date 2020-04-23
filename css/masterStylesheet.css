@@ -69,8 +69,12 @@ a:hover {
 footer {
   background-color: #d14635;
   font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
   text-align: center;
   color: white;
+  max-width: 800px;
+  margin: auto;
+  line-height: 40px;
 }
 
 footer a {
